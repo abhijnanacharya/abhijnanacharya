@@ -10,4 +10,6 @@
 - Reach out to me if you need help with **Algorithms**, **GraphQLRelay**, **Vue**, **Docker** **Design Pattern**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are more stars in the universe than grains of sand on all the beaches on Earth.
+       
+![Abhijnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijnanacharya&show_icons=true&count_private=true)
 

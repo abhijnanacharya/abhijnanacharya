@@ -7,6 +7,7 @@
        
 - 💬 Ask me about anything Tech & How to break into Tech<Career>
 - 📫 How to reach me: ![image](https://user-images.githubusercontent.com/33322551/177618037-121e2ed6-4db2-4210-bb3d-65233411c4ea.png) [Twitter](https://twitter.com/Abhijnan_1)
+- Current Learning: NestJS, ElasticSearch
 - Reach out to me if you need help with **Algorithms**, **GraphQLRelay**, **Vue**, **Docker**, **Design Patterns**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are more stars in the universe than grains of sand on all the beaches on Earth.

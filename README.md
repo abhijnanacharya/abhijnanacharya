@@ -14,3 +14,4 @@
        
 ![Abhijnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijnanacharya&show_icons=true&count_private=true)
 
+<a href="https://app.daily.dev/abhijnanacharya"><img src="https://api.daily.dev/devcards/v2/GlxkShNHeg6rzFIKSAxDt.png?r=ggx" width="356" alt="Abhijnan Acharya's Dev Card"/></a>

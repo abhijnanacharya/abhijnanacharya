@@ -7,7 +7,7 @@
 <img id="image" style="width:128px;height:128px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" title="Nestjs, logo Icon Free" alt="nestjs, logo Icon">
 - 💬 Ask me about anything Tech & How to break into Tech<Career>
 - 📫 How to reach me: ![image](https://user-images.githubusercontent.com/33322551/177618037-121e2ed6-4db2-4210-bb3d-65233411c4ea.png) [Twitter](https://twitter.com/Abhijnan_1)
-- Currently Learning: Rust, Solana 
+- Currently Learning: Deep Learning , Generative AI, Agentic Applications 
 - Reach out to me if you need help with **Algorithms**, **NestJS**, **ElasticSearch**, **GraphQL**, **VueJs**, **Docker**, **K8s**, **Design Patterns** 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are more stars in the universe than grains of sand on all the beaches on Earth.

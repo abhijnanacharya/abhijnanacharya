@@ -41,9 +41,6 @@
 
 </table>
 
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
-
 ---
 
 ## 🧠 Currently Learning
@@ -118,6 +115,9 @@ DevOps & Tools:
   <img src="https://api.daily.dev/devcards/v2/GlxkShNHeg6rzFIKSAxDt.png?r=ggx" width="300" alt="Abhijnan Acharya's Dev Card"/>
 </a>
 
+![](https://komarev.com/ghpvc/?username=abhijnanacharya&color=blueviolet&abbreviated=true)
+
+<br/>
 ---
 
 ## ⚡ Fun Fact  

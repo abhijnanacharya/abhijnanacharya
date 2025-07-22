@@ -11,19 +11,20 @@
 
 <table>
   <tr>
-  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/><br/><sub>Python</sub></td>
+  <td align="center" width="120"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="64"/><br/><sub>Node.js</sub></td>
   <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64"/><br/><sub>TypeScript</sub></td>
   <td align="center" width="120"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="64"/><br/><sub>C++</sub></td>
-  <td align="center" width="120"><img src="https://img.icons8.com/color/96/000000/postgreesql.png"/><br/><sub>PostgreSQL</sub></td>
+  <td align="center" width="120"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="64"/><br/><sub>PostgreSQL</sub></td>
+  <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64"/><br/><sub>Python</sub></td>
   <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="64"/><br/><sub>Redis</sub></td>
-  <td align="center" width="120"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" width="64"/><br/><sub>NestJS</sub></td>
+  <td align="center" width="120"><img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" width="64"/><br/><sub>NestJS</sub></td>
   <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="64"/><br/><sub>FastAPI</sub></td>
 </tr>
 <tr>
   <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="64"/><br/><sub>React.js</sub></td>
   <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="64"/><br/><sub>Vue.js</sub></td>
-  <td align="center" width="120"><img src="https://img.icons8.com/color/96/000000/graphql.png"/><br/><sub>GraphQL</sub></td>
-  <td align="center" width="120"><img src="https://img.icons8.com/doodle/96/000000/docker.png"/><br/><sub>Docker</sub></td>
+  <td align="center" width="120"><img src="https://img.icons8.com/color/96/000000/graphql.png" width="64"/><br/><sub>GraphQL</sub></td>
+  <td align="center" width="120"><img src="https://img.icons8.com/doodle/96/000000/docker.png" width="64"/><br/><sub>Docker</sub></td>
   <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="64"/><br/><sub>Kubernetes</sub></td>
   <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="64"/><br/><sub>ElasticSearch</sub></td>
   <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64"/><br/><sub>GitHub Actions</sub></td>
@@ -56,10 +57,10 @@
 ## 💡 Highlights
 
 - 🧪 Built [`Talos`](https://github.com/abhijnanacharya/talos_cli): YAML-native DAG Orchestrator for LLM agents (Airflow x LangChain x K8s inspiration)  
-- 📈 Engineered large-scale systems at Amazon and Skill-Lync (YC'21) with 10K+ DAU impact  
+- 📈 Engineered large-scale systems at Amazon and <b>Skill-Lync (YC'21)</b> with 10K+ DAU impact  
 - 🏆 Hackathon winner – AI Avatar Gen, InsurTech Search Engine (used by 7K+ users)  
 - 🧰 Contributor to open-source CLI tools, observability dashboards, log-tracing systems  
-- 💬 I lead tech workshops (Docker, K8s, ELK, Segment Trees) @ACM IIT-Chicago
+- 💬 I lead tech workshops (Docker, K8s, ELK, ACM-ICPC) @ACM IIT-Chicago
 
 ---
 
@@ -105,9 +106,8 @@ DevOps & Tools:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhijnanacharya&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijnanacharya&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijnanacharya&theme=highcontrast&hide_border=true" width="48%" />
   <br/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijnanacharya&layout=compact&theme=radical" width="48%"/> -->
 </div>
 
 ---
@@ -126,4 +126,4 @@ DevOps & Tools:
 
 ---
 
-_✨ Let’s build something amazing together! ✨_
+_✨ Let’s build something amazing and meaningful together! ✨_

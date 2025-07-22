@@ -114,10 +114,11 @@ DevOps & Tools:
 <a href="https://app.daily.dev/abhijnanacharya">
   <img src="https://api.daily.dev/devcards/v2/GlxkShNHeg6rzFIKSAxDt.png?r=ggx" width="300" alt="Abhijnan Acharya's Dev Card"/>
 </a>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=abhijnanacharya&color=blueviolet&abbreviated=true)
 
-<br/>
+
 ---
 
 ## ⚡ Fun Fact  

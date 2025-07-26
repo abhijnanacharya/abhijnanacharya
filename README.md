@@ -43,7 +43,7 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Exploring
 
 - 🤖 Deep Learning & Generative AI  
 - 🕸️ Multi-agent Architectures & AI Orchestration  
